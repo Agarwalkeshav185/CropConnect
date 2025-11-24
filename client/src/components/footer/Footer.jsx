@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-gradient-to-r from-green-800 via-green-600 to-green-500 text-white py-8 px-6 md:px-12 text-center">
       <div className="flex flex-col items-center justify-center mb-6">
         <p className="text-xl font-semibold mb-2">
-          Made with <span className="text-red-500">♥</span> by Lakshay Dhall
+          Made with <span className="text-red-500">♥</span> by Keshav Agarwal
         </p>
         <p className="text-sm md:text-base font-medium text-green-100">
           Growing the future, one step at a time!
